@@ -1,0 +1,85 @@
+                                * {
+                                    background-color: #15133C;
+                                }
+                                
+                                hr {
+                                    position: relative;
+                                    margin-top: 100px;
+                                    border-Style: solid none none;
+                                    border-color: #60d984;
+                                    border-width: 4px;
+                                }
+                                
+                                .intro p {
+                                    width: 100%;
+                                    font-family: 'Press Start 2P', cursive;
+                                    color: #F8ECD1;
+                                    position: relative;
+                                    left: 45px;
+                                    top: 40px;
+                                    font-weight: normal;
+                                    font-size: 60px;
+                                    text-align: center;
+                                }
+                                
+                                .intro img {
+                                    width: 150px;
+                                    position: relative;
+                                    left: 720px;
+                                    top: 0px;
+                                    margin-top: 40px;
+                                    border-top: 1px solid #F8ECD1;
+                                }
+                                
+                                .btn button {
+                                    width: 170px;
+                                    -webkit-border-radius: 20;
+                                    -moz-border-radius: 20;
+                                    border-radius: 20px;
+                                    font-family: Georgia;
+                                    color: #FF8E00;
+                                    font-size: 21px;
+                                    padding: 10px 20px 8px 20px;
+                                    border: solid #4B7BE5 3px;
+                                    text-decoration: none;
+                                    position: relative;
+                                    left: 712px;
+                                    top: 0px;
+                                    margin-top: 40px;
+                                    margin-bottom: 100px;
+                                }
+                                
+                                .btn button:hover {
+                                    background: #2f4266;
+                                    text-decoration: none;
+                                }
+
+                               
+                                
+                               
+
+                               
+                                  
+                                    
+
+
+                              
+                                  
+                                  
+                                    
+                                    
+                                
+                                .footer p{
+                                    color: #8a8a8a;
+                                }
+                                .copyright{
+                                    color: #8a8a8a;
+                                    font-size: 14px;
+                                    padding: 60px 0 20px;
+                                    margin-bottom: 0px;
+                                    flex-basis: 12%;
+                                    text-align: center;
+                                    position: relative;
+                                    left: 40px;
+                                  
+                                }
